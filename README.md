@@ -74,3 +74,5 @@ docker run -p 5432:5432 -e POSTGRES_DB=ecommerce -e POSTGRES_PASSWORD=password p
 3. Build shopping cart functionality
 4. Add payment integration (Razorpay/Stripe)
 5. Implement order management
+
+   mmmm
